@@ -1,0 +1,293 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    .mission-logo {
+        width: auto;
+     }
+    .header-logo img {
+        margin-left: 10px;
+    }
+
+    .container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .procecc-blockst {
+        margin-left: -57px;
+    }
+    .hero-block-input {
+        width: 90%;
+    }
+    .hero-block-inut {
+        width: 90%;
+    }.paket-blocks {
+         margin-left: 140px;
+     }}
+@media (max-width: 1024px) {
+    .hero-block-inut {
+        width: 373px;
+    }.hero-block-input {
+         width: 373px;
+     }
+     .container{
+     width: 1024px;
+     margin: 0 auto;
+
+}.header-nav-a {
+    padding: 14px;}
+     .quation-logo{
+         display: flex;
+         flex-direction: column;
+         width: 90%;
+     }
+}
+@media (max-width: 912px) {
+    .container{
+        width: 912px;
+
+    }
+    .quation-logo h1 {
+        font-size: 14px;
+    }.quation-logo h2 {
+         font-size: 14px;
+     }.quation-logo h3 {
+          font-size: 14px;
+      }.quation-logo h4 {
+           font-size: 14px;
+       }.quation-logo p4 {
+            font-size: 14px;
+        }.quation-logo p3 {
+             font-size: 14px;
+         }.quation-logo p2 {
+              font-size: 14px;
+          }
+    .quation-logo p{
+        font-size: 12px;
+    }
+    .mission-logo{
+        width: 89%;
+        height: 100%;
+    }.sowmes {
+         width: 40%;
+     } .youself img {
+                    width: 468px;
+                    height: 400px;
+                }
+
+    .durak{
+        padding-top: 20px;
+    }
+    .div {
+        padding-right: 12%;}
+    .procecc {
+        display: flex;
+        width: 321px;
+        flex-wrap: wrap;}
+    .pak-p {
+        font-size: 15px;}
+    .procecc-blocks {
+        width: 387px;
+    }
+    .btn4 {
+        width: 400px;}
+    .paket {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: start;
+    }
+    .hero-block-input {
+        width: 304px;
+    }.hero-block-inut {
+         width: 304px;
+     }.header-nav {
+                         display: flex;
+                         padding-right: 167px;}
+      }
+@media (max-width: 876px) {
+    .quation-logo {
+        margin-left: -114px;
+    }
+    .quation-logo h1 {
+        font-size: 14px;
+    }.quation-logo h2 {
+         font-size: 14px;
+     }.quation-logo h3 {
+          font-size: 14px;
+      }.quation-logo h4 {
+           font-size: 14px;
+       }.quation-logo p4 {
+            font-size: 14px;
+        }.quation-logo p3 {
+             font-size: 14px;
+         }.quation-logo p2 {
+              font-size: 14px;
+          }
+    .quation-logo p{
+        font-size: 12px;
+    }
+    .mission-logo{
+        width: 85%;
+        height: 100%;}
+
+      .div{
+          padding-right: 15%;
+      }
+      .btn4{
+          width: 366px;
+      }
+    .youself img{
+        width: 475px;
+        height: 400px;
+    }}
+@media (max-width: 820px) {
+    .header-nav {
+        display: flex;
+        padding-right: 101px;
+    }
+    .quation-logo h1 {
+        font-size: 14px;
+    }.quation-logo h2 {
+         font-size: 14px;
+     }.quation-logo h3 {
+          font-size: 14px;
+      }.quation-logo h4 {
+           font-size: 14px;
+       }.quation-logo p4 {
+            font-size: 14px;
+        }.quation-logo p3 {
+             font-size: 14px;
+         }.quation-logo p2 {
+              font-size: 14px;
+          }
+    .quation-logo p{
+        font-size: 12px;
+    }
+    .paket-blockst {
+        margin-left: 153px;
+    }
+    .youself img {
+        width: 444px;
+    }
+    .pak-p {
+        font-size: 14px;
+    }
+    .btn4 {
+        width: 366px;
+    }.hero-block-input {
+         width: 222px;
+     }.hero-block-inut {
+          width: 222px;}
+}
+@media (max-width: 768px) {
+    .header-nav {
+    display: flex;
+    padding-right: 67px;}
+    .mission-logo{
+        width: 83%;
+        height: 100%;}
+    .youself img {
+        width: 397px;
+    }
+    .window h1 {
+        margin-left: 64px;
+    }
+    .quation-logo h1 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo h2 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo h3 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo h4 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo p4 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo p3 {
+        font-size: 14px;margin-left: 46px;
+    }.quation-logo p2 {
+        font-size: 14px;margin-left: 46px;
+    }
+    .quation-logo p{
+        font-size: 12px;margin-left: 46px;
+    }
+    .div {
+        padding-right: 16%;
+    }
+    .help-p {
+        margin-left: 67px;}
+    .pak-p{
+        font-size: 12px;
+    }
+    .pak-h1{
+        font-size: 34px;
+    }
+    .pr-h1{
+     font-size: 34px;
+    }
+
+
+
+}
+@media (max-width: 660px) {
+    .window h1 {
+        margin-left: 3px;
+    }
+    .header-nav {
+        display: flex;
+        padding-right: 1px;}.header-nav a {
+        padding: 20px}
+    .quation-logo h1 {
+    font-size: 12px;margin-left: 36px;
+}.quation-logo h2 {
+     font-size: 12px;margin-left: 36px;
+ }.quation-logo h3 {
+      font-size: 12px;margin-left: 36px;
+  }.quation-logo h4 {
+       font-size: 12px;margin-left: 36px;
+   }.quation-logo p4 {
+        font-size: 12px;margin-left: 36px;
+    }.quation-logo p3 {
+         font-size: 12px;margin-left: 36px;
+     }.quation-logo p2 {
+          font-size: 12px;margin-left: 36px;
+      }
+    .quation-logo p{
+        font-size: 10px;margin-left: 46px;
+    }
+    .w{
+        width: 425px;}
+    .q{
+        width: 425px;}
+       .dk{ padding-top: 20px;}
+    .e{
+        width: 425px;
+       }
+    .r{
+        width: 425px;
+       }
+    .t{
+        width: 425px;
+       }
+    .y{
+        width: 425px;
+        }.i{width: 425px;
+                                         }
+    .u{
+        width: 425px;
+       }
+
+}
+}
+@media (max-width: 576px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
+@media (max-width: px) {  }
